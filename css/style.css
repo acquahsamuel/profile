@@ -17,7 +17,8 @@ body::before {
   position: fixed;
   /* background: rgba(4, 4, 4, 0.986) url("../img/background.jpg") top right no-repeat; */
   background-image : linear-gradient(315deg, #43b401d7 0%, #06a766 74%);
-  clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
+  /* clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%); */
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 84% 100%, 66% 100%, 43% 94%, 1% 84%);
   background-size: cover;
   left: 0;
   right: 0;
@@ -137,6 +138,7 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
   }
 }
+
 
 /*--------------------------------------------------------------
 # Navigation Menu

@@ -3,7 +3,9 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+
+  font-family: 'Roboto Mono', monospace;
   background-color: #040404;
   color: #fff;
   position: relative;
@@ -41,7 +43,8 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: 'Roboto Mono', monospace;
 }
 
 /*--------------------------------------------------------------
@@ -67,7 +70,8 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Roboto Mono', monospace;
 }
 
 #header h1 a, #header h1 a:hover {
@@ -158,7 +162,8 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   color: rgba(255, 255, 255, 0.7);
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Roboto Mono', monospace;
   font-weight: 400;
 }
 
@@ -472,7 +477,7 @@ section .container {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #18d26e ;
+  background-color: #27d218 ;
 }
 
 /*--------------------------------------------------------------

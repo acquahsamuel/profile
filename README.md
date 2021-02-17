@@ -7,7 +7,7 @@
 
 
 
-![alt text](img/readme/img-1/png)
-![alt text](img/readme/img-2/png)
-![alt text](img/readme/img-3/png)
-![alt text](img/readme/img-4/png)
+<img src="./img/readme-img/img-1.png">
+<img src="./img/readme-img/img-2.png">
+<img src="./img/readme-img/img-3.png">
+<img src="./img/readme-img/img-4.png">

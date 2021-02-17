@@ -8,11 +8,11 @@
 
 
 
-<img src="./img/readme-img/img-1.png" width="620" height="420">
-<img src="./img/readme-img/img-2.png" width="620" height="420">
+<img src="./img/readme-img/img-1.png">
+<img src="./img/readme-img/img-2.png">
 <br>
-<img src="./img/readme-img/img-3.png" width="620" height="420">
-<img src="./img/readme-img/img-4.png" width="620" height="420">
+<img src="./img/readme-img/img-3.png">
+<img src="./img/readme-img/img-4.png">
 
 
 ### Built With

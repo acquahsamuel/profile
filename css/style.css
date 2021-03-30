@@ -16,7 +16,8 @@ body::before {
   position: fixed;
   background: rgba(4, 4, 4, 0.986) url("../img/background.jpg") top right no-repeat;
   background-image : linear-gradient(315deg, #091104d7 0%, #01130ace 74%);
-  clip-path: circle(86.5% at 78% 23%);
+  /* clip-path: circle(86.5% at 78% 23%); */
+  clip-path: polygon(0 0, 100% 0%, 100% 71%, 0% 100%);
   background-size: cover;
   left: 0;
   right: 0;
